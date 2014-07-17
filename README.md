@@ -59,7 +59,7 @@ I am the lead developer of this eLearning platform at Bluedrop.
 ## Hobbies
 
 - Snowboarding
-- Competitive Video Games (Starcraft, Counter-Strike, etc)
+- Competitive Video Games - _Starcraft, Counter-Strike, etc_
 - Juggling
 - Programming
 
