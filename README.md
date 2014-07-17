@@ -34,7 +34,7 @@ Graduated with a _4.0 GPA_
 - **Unit & Functional Testing**
 [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Selenium](http://docs.seleniumhq.org)
 - **Infrastructure & DevOps**
-[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com)
+[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration)
 
 
 ## Experience
