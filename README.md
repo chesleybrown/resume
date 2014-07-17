@@ -16,25 +16,25 @@ Graduated with a _4.0 GPA_
 ## Skills
 
 - **PHP**
-Zend Framework, CakePHP
+[Zend Framework](http://framework.zend.com), [CakePHP](http://cakephp.org)
 - **Javascript**
-NodeJS, AngularJS, jQuery, GruntJS
+[NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [jQuery](http://jquery.com), [GruntJS](http://gruntjs.com)
 - **HTML & CSS**
-Sass
+[Sass](http://sass-lang.com)
 - **Package Management**
-npm, bower, Composer
+[npm](https://www.npmjs.org), [bower](http://bower.io), [Composer](https://getcomposer.org)
 - **Python**
-Django
-- **Version Control**
-Git, SVN
+[Django](https://www.djangoproject.com)
+- **Source Control**
+[Git](http://git-scm.com), [SVN](http://subversion.apache.org)
 - **Objective-C**
-iOS, Xcode
+[iOS](https://www.apple.com/ca/ios/), [Xcode](https://developer.apple.com/xcode/)
 - **Databases**
-MySql, Postgres, MongoDB, Firebase
+[MySql](http://www.mysql.com), [Postgres](http://www.postgresql.org), [MongoDB](http://mongodb.org), [Firebase](http://firebase.com)
 - **Unit & Functional Testing**
-phpunit, JasmineBD, Selenium
+[phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Selenium](http://docs.seleniumhq.org)
 - **Infrastructure & DevOps**
-Docker, Puppet, Vagrant
+[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com)
 
 
 ## Experience
