@@ -1,6 +1,6 @@
 Chesley Brown
 ======
-Founder of RentChek. Lead Programmer at Bluedrop. Coding enthusiasts. Awesome Guy.
+Founder of RentChek. Lead Programmer at Bluedrop. Coding enthusiast. Awesome Guy.
 
 - [chesleybrown.ca](http://chesleybrown.ca)
 - [me@chesleybrown.ca](mailto:me@chesleybrown.ca)
