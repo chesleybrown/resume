@@ -56,7 +56,7 @@ Web Application Developer - _Jul 2007 to Aug 2008_
 ## References
 
 - [Github](https://github.com/chesleybrown)
-- [Bitbucket](https://bitbucket.org/chesleybrown)
+- [LinkedIn](http://www.linkedin.com/pub/chesley-brown/10/1a5/18b)
 - [Twitter](https://twitter.com/chesley)
 - [Facebook](https://facebook.com/chesleybrown)
 - Business references available on request.
