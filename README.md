@@ -46,6 +46,16 @@ Lead Programmer & Release Engineer - _Oct 2008 to Present_
 Web Application Developer - _Jul 2007 to Aug 2008_
 
 
+## Projects
+
+- **RentChek** - [rentchek.com](https://rentchek.com)
+Powered by HTML5, Sass, AngularJS, MongoDB, NodeJS and Docker.
+- **Synapsie** - [synapsie.com](http://synapsie.com)
+Powered by Python, Django and jQuery.
+- **CoursePark** - [coursepark.com](https://www.coursepark.com)
+I am the lead developer of this eLearning platform at Bluedrop.
+
+
 ## Hobbies
 
 - Snowboarding
