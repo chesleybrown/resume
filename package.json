@@ -1,0 +1,17 @@
+{
+	"name": "chesleybrown-resume",
+	"description": "Single page, printable resumé for Chesley Brown written in Markdown.",
+	"version": "0.0.1",
+	"private": true,
+	"engines": {
+		"node": "0.10.29"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"markdown-styles": "1.2.1"
+	},
+	"scripts": {
+		"markdown": "generate-md --layout mixu-page --input chesleybrown.md --output ./"
+	}
+}
