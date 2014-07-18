@@ -43,11 +43,10 @@ Graduated with a _4.0 GPA_
 
 - **Bluedrop Performance Learning**
 Lead Programmer & Release Engineer - _Oct 2008 to Present_
-	- Involved in problem solving and architecting solutions that satisfy tight deadlines while keeping future development efforts in mind.
-	- Ensure the quality of code produced by developers through pull requests and code reviews.
+	- Involved in problem solving and architecting solutions.
+	- Provide leadership and ensure the quality of code produced by developers through pull requests and code reviews.
 	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures.
-	- Provides leadership for the entire CoursePark development team.
-	- Perform DevOp duties including implementing and maintaining an agile development process, test driven development, [12 Factor](http://12factor.net) app design and continuous deployment.
+	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](http://12factor.net) app design and continuous deployment.
 	- Manages the automated compilation, assembly, maintenance and delivery of source code to our production servers.
 	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io).
 
@@ -69,12 +68,16 @@ Web Application Developer - _Jul 2007 to Aug 2008_
 
 ## Projects
 
-- **RentChek** - [rentchek.com](https://rentchek.com)
+- **RentChek** - _[rentchek.com](https://rentchek.com)_
 Powered by HTML5, Sass, AngularJS, MongoDB, NodeJS and Docker.
-- **Synapsie** - [synapsie.com](http://synapsie.com)
+- **Synapsie** - _[synapsie.com](http://synapsie.com)_
 Powered by Python, Django and jQuery.
-- **CoursePark** - [coursepark.com](https://www.coursepark.com)
+- **CoursePark** - _[coursepark.com](https://www.coursepark.com)_
 I am the lead developer of this eLearning platform at Bluedrop.
+- **PeerPerks** - _[chesleybrown.github.io/peerperks](http://chesleybrown.github.io/peerperks/)_
+OpenSource web app I created to encourage peer code review through gamification with incentives. Powered by [Firebase](http://firebase.com).
+- **Open Source Contributions**
+[pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive)
 
 
 ## Hobbies
