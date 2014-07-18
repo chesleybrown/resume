@@ -26,27 +26,45 @@ Graduated with a _4.0 GPA_
 - **Python**
 [Django](https://www.djangoproject.com)
 - **Source Control**
-[Git](http://git-scm.com), [SVN](http://subversion.apache.org)
+[Git](http://git-scm.com), [SVN](http://subversion.apache.org), [CVS](http://www.nongnu.org/cvs/)
 - **Objective-C**
 [iOS](https://www.apple.com/ca/ios/), [Xcode](https://developer.apple.com/xcode/)
 - **Databases**
 [MySql](http://www.mysql.com), [Postgres](http://www.postgresql.org), [MongoDB](http://mongodb.org), [Firebase](http://firebase.com)
 - **Unit & Functional Testing**
 [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Selenium](http://docs.seleniumhq.org)
+- **Servers**
+[Ubuntu](http://www.ubuntu.com/download/server), [nginx](http://nginx.org), [Apache](https://httpd.apache.org)
 - **Infrastructure & DevOps**
-[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration)
+[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration), [12 Factor](http://12factor.net)
 
 
 ## Experience
 
 - **Bluedrop Performance Learning**
 Lead Programmer & Release Engineer - _Oct 2008 to Present_
+	- Involved in problem solving and architecting solutions that satisfy tight deadlines while keeping future development efforts in mind.
+	- Ensure the quality of code produced by developers through pull requests and code reviews.
+	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures.
+	- Provides leadership for the entire CoursePark development team.
+	- Perform DevOp duties including implementing and maintaining an agile development process, test driven development, [12 Factor](http://12factor.net) app design and continuous deployment.
+	- Manages the automated compilation, assembly, maintenance and delivery of source code to our production servers.
+	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io).
 
 - **Satusfirm**
 Web Application Developer - _Jul 2007 to Aug 2008_
+	- Contributed to media websites that served 1000's of simultaneous viewers.
+	- Developed live comment system.
+	- Website optimization.
+	- Integrated a third-party ticket purchasing system using a provided API.
+	- Built parsers for provided government files.
+	- Developed website graphics using GIMP, Photoshop and Illustrator.
+	- Provided leadership within the development team.
+	- Utilized technologies such as [PHP](https://php.net), [jQuery](http://jquery.com), [CVS](http://www.nongnu.org/cvs/), [SVN](http://subversion.apache.org), [Apache](https://httpd.apache.org), [MySql](http://www.mysql.com) and [Smarty Template Engine](http://www.smarty.net).
 
 - **Recent Conferences**
-[Security BSides](http://www.securitybsides.com), [Go Beyond Pixels](http://gobeyondpixels.com), [Lunch and Learn with Peter Moreira](http://www.meetup.com/StartupNL/events/180033782/), Presented at [Startup NL DemoCamp](http://www.meetup.com/StartupNL/events/168636192/)
+	- Presented at [Startup NL DemoCamp](http://www.meetup.com/StartupNL/events/168636192/)
+	- Attended [Security BSides](http://www.securitybsides.com), [Go Beyond Pixels](http://gobeyondpixels.com), [Lunch and Learn with Peter Moreira](http://www.meetup.com/StartupNL/events/180033782/)
 
 
 ## Projects
