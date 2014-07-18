@@ -78,6 +78,8 @@ Powered by Python, Django and jQuery.
 I am the lead developer of this eLearning platform at Bluedrop.
 - **PeerPerks** - _[chesleybrown.github.io/peerperks](http://chesleybrown.github.io/peerperks/)_
 OpenSource web app I created to encourage peer code review through gamification with incentives. Powered by [Firebase](http://firebase.com).
+- **Portfolio** - _[chesleybrown.ca](http://chesleybrown.ca)_
+My custom built portfolio. Has a blog that I designed to integrate directly with Evernote as well as a custom aggregated social feed. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio).
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 [pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive)
 
