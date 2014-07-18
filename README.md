@@ -8,7 +8,7 @@ Founder of RentChek. Lead Programmer at Bluedrop. Coding enthusiast. Awesome Guy
 
 ## Education
 
-- **College of the North Atlantic**
+- **College of the North Atlantic** - _[cna.nl.ca](http://www.cna.nl.ca)_
 Website Administrator - _Class of 2007_
 Graduated with a _4.0 GPA_
 
