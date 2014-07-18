@@ -83,7 +83,7 @@ OpenSource web app I created to encourage peer code review through gamification 
 ## Hobbies
 
 - Snowboarding
-- Competitive Video Games - _Starcraft, Counter-Strike, etc_
+- Competitive Video Games - _[Starcraft](http://starcraft2.com), [Counter-Strike](http://blog.counter-strike.net), etc_
 - Juggling
 - Programming
 
