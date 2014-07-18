@@ -95,8 +95,8 @@ My custom built portfolio. Has a blog that I designed to integrate directly with
 
 ## References
 
-- [Github](https://github.com/chesleybrown)
-- [LinkedIn](http://www.linkedin.com/pub/chesley-brown/10/1a5/18b)
-- [Twitter](https://twitter.com/chesley)
-- [Facebook](https://facebook.com/chesleybrown)
-- Business references available on request.
+- Github - _[github.com/chesleybrown](https://github.com/chesleybrown)_
+- LinkedIn - _[linkedin.com/in/chesleybrown](http://www.linkedin.com/in/chesleybrown)_
+- Twitter - _[twitter.com/chesley](https://twitter.com/chesley)_
+- Facebook - _[facebook.com/chesleybrown](https://facebook.com/chesleybrown)_
+- Personal references available on request.
