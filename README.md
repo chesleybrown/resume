@@ -37,6 +37,8 @@ Graduated with a _4.0 GPA_
 [Ubuntu](http://www.ubuntu.com/download/server), [nginx](http://nginx.org), [Apache](https://httpd.apache.org)
 - **Infrastructure & DevOps**
 [Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration), [12 Factor](http://12factor.net)
+- **eLearning**
+[SCORM Engine](http://scorm.com/scorm-solved/scorm-engine/), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee), [TinCan API](http://tincanapi.com)
 
 
 ## Experience
@@ -48,7 +50,7 @@ Lead Programmer & Release Engineer - _Oct 2008 to Present_
 	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures.
 	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](http://12factor.net) app design and continuous deployment.
 	- Manages the automated compilation, assembly, maintenance and delivery of source code to our production servers.
-	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io).
+	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [SCORM Engine](http://scorm.com/scorm-solved/scorm-engine/), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](http://tincanapi.com).
 
 - **Satusfirm**
 Web Application Developer - _Jul 2007 to Aug 2008_
