@@ -45,6 +45,9 @@ Lead Programmer & Release Engineer - _Oct 2008 to Present_
 - **Satusfirm**
 Web Application Developer - _Jul 2007 to Aug 2008_
 
+- **Recent Conferences**
+[Security BSides](http://www.securitybsides.com), [Go Beyond Pixels](http://gobeyondpixels.com), [Lunch and Learn with Peter Moreira](http://www.meetup.com/StartupNL/events/180033782/), Presented at [Startup NL DemoCamp](http://www.meetup.com/StartupNL/events/168636192/)
+
 
 ## Projects
 
