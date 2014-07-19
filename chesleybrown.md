@@ -66,7 +66,7 @@ Chesley Brown
 	
 - **Other Skills & Traits**
 	
-	Project Management, Initiative, Communication, Team Collaboration, Team Management, Planning, Forward Thinking, Knowledge Transfer, Documentation, Technical Scoping, Research & Development
+	Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Transferring Knowledge, Documenting, Technical Scoping, Research & Development
 	
 
 ## Experience
