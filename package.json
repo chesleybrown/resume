@@ -12,6 +12,6 @@
 		"markdown-styles": "1.2.1"
 	},
 	"scripts": {
-		"markdown": "generate-md --layout mixu-page --input chesleybrown.md --output ./"
+		"generate": "generate-md --layout mixu-page --input chesleybrown.md --output ./"
 	}
 }

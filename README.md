@@ -16,5 +16,5 @@ npm install
 To generate the `HTML` rendering of the resume simply run:
 
 ```
-npm run markdown
+npm run generate
 ```
