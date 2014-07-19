@@ -105,11 +105,11 @@ Chesley Brown
 
 - **RentChek** - _[rentchek.com](https://rentchek.com)_
 	
-	Responsive web app for managing rental properties. Powered by [Sass](http://sass-lang.com), [AngularJS](https://angularjs.org), [MongoDB](http://mongodb.org), [NodeJS](http://nodejs.org), [nginx](http://nginx.org) and [Docker](http://docker.io).
+	Responsive web app I built for managing rental properties. Powered by [Sass](http://sass-lang.com), [AngularJS](https://angularjs.org), [MongoDB](http://mongodb.org), [NodeJS](http://nodejs.org), [nginx](http://nginx.org), [Docker](http://docker.io) and [12 Factor](http://12factor.net) app design.
 	
 - **Synapsie** - _[synapsie.com](http://synapsie.com)_
 	
-	Web service for recording life memories. Powered by [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Apache](https://httpd.apache.org) and [jQuery](http://jquery.com).
+	Web service I created for recording life memories. Powered by [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Apache](https://httpd.apache.org) and [jQuery](http://jquery.com).
 	
 - **CoursePark** - _[coursepark.com](https://www.coursepark.com)_
 	
@@ -125,7 +125,7 @@ Chesley Brown
 	
 - **Portfolio** - _[chesleybrown.ca](http://chesleybrown.ca)_
 	
-	My custom built portfolio. Has a blog that I designed to integrate directly with Evernote as well as a custom aggregated social feed. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio).
+	My custom built portfolio. Has a blog that I designed to integrate directly with Evernote as well as a custom aggregated social feed. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio). Powered by [NodeJS](http://nodejs.org), [MongoDB](http://mongodb.org), [AngularJS](https://angularjs.org) and [Evernote](https://evernote.com).
 	
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 	
