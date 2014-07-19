@@ -129,7 +129,7 @@ Chesley Brown
 	
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 	
-	[pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive)
+	[pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive), [randomclass-directive](https://github.com/chesleybrown/randomclass-directive)
 	
 
 
