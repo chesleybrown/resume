@@ -62,7 +62,7 @@ Chesley Brown
 	
 - **eLearning** - _Competent_
 	
-	[SCORM Engine](http://scorm.com/engine), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee), [TinCan API](http://tincanapi.com)
+	[SCORM Engine](http://scorm.com/engine), [SCORM Cloud](http://scorm.com/cloud), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee), [TinCan API](http://tincanapi.com)
 	
 - **Other Skills & Traits**
 	
