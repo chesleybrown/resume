@@ -98,7 +98,7 @@ Chesley Brown
 - **Recent Conferences**
 	
 	- Presented [RentChek](https://rentchek.com) at [Startup NL DemoCamp](http://www.meetup.com/StartupNL/events/168636192/)
-	- Attended [Security BSides](http://www.securitybsides.com), [Go Beyond Pixels](http://gobeyondpixels.com), [Lunch and Learn with Peter Moreira](http://www.meetup.com/StartupNL/events/180033782/)
+	- Attended [Security BSides](http://www.securitybsides.com), [Go Beyond Pixels](http://gobeyondpixels.com) and [Lunch and Learn with Peter Moreira](http://www.meetup.com/StartupNL/events/180033782/)
 	
 
 ## Projects
