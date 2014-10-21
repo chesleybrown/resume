@@ -2,6 +2,10 @@
 logs
 *.log
 
+# Assets
+assets
+chesleybrown.html
+
 # Runtime data
 pids
 *.pid
