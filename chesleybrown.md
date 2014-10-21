@@ -115,9 +115,9 @@ Chesley Brown
 	
 	Lead developer for this eLearning platform at [Bluedrop](http://www.bluedrop.com). Powered by technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [phpunit](http://phpunit.de), [jQuery](http://jquery.com), [Postgres](http://www.postgresql.org), [SCORM Engine](http://scorm.com/engine), [Git](http://git-scm.com) and [nginx](http://nginx.org).
 	
-- **Bluedrop Learning Networks** - _Work in Progress_
+- **Bluedrop Learning Networks Platform** - _Work in Progress_
 	
-	New platform led by myself and my team of developers at [Bluedrop](http://www.bluedrop.com). A custom built eLearning platform consisting of apps following [12 Factor](http://12factor.net) design. Using technologies such as [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Sass](http://sass-lang.com), [GruntJS](http://gruntjs.com), [Docker](http://docker.io) and [Postgres](http://www.postgresql.org).
+	New platform led by myself and my team of developers at [Bluedrop](http://www.bluedrop.com). A custom built eLearning platform consisting of apps following [12 Factor](http://12factor.net) design. Using technologies such as [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Sass](http://sass-lang.com), [GruntJS](http://gruntjs.com), [Docker](http://docker.io) and [Postgres](http://www.postgresql.org). Although this is a work in progress, you can [preview the API documentation online](http://bln-docs.coursepark.com).
 	
 - **PeerPerks** - _[chesleybrown.github.io/peerperks](http://chesleybrown.github.io/peerperks/)_
 	
@@ -145,6 +145,4 @@ Chesley Brown
 
 - Github - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 - LinkedIn - _[linkedin.com/in/chesleybrown](http://www.linkedin.com/in/chesleybrown)_
-- Twitter - _[twitter.com/chesley](https://twitter.com/chesley)_
-- Facebook - _[facebook.com/chesleybrown](https://facebook.com/chesleybrown)_
-- Personal references available on request.
+- Professional references available on request.
