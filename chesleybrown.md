@@ -16,10 +16,6 @@ Chesley Brown
 
 ## Skills
 
-- **PHP** - _Proficient_
-	
-	[Zend Framework](http://framework.zend.com), [CakePHP](http://cakephp.org)
-	
 - **Javascript** - _Proficient_
 	
 	[NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [jQuery](http://jquery.com), [GruntJS](http://gruntjs.com)
@@ -31,6 +27,10 @@ Chesley Brown
 - **Package Management** - _Proficient_
 	
 	[npm](https://www.npmjs.org), [bower](http://bower.io), [Composer](https://getcomposer.org)
+	
+- **PHP** - _Proficient_
+	
+	[Zend Framework](http://framework.zend.com), [CakePHP](http://cakephp.org)
 	
 - **Python** - _Competent_
 	
@@ -50,7 +50,7 @@ Chesley Brown
 	
 - **Unit & Functional Testing** - _Proficient_
 	
-	[phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Selenium](http://docs.seleniumhq.org)
+	[Mocha](http://mochajs.org), [JasmineBD](http://jasmine.github.io), [Selenium](http://docs.seleniumhq.org), [phpunit](http://phpunit.de)
 	
 - **Servers** - _Competent_
 	
@@ -58,7 +58,7 @@ Chesley Brown
 	
 - **Infrastructure & DevOps** - _Proficient_
 	
-	[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration), [12 Factor](http://12factor.net)
+	[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration), [Heroku](http://heroku.com), [Modulus](http://modulus.io), [12 Factor](http://12factor.net)
 	
 - **eLearning** - _Competent_
 	
@@ -66,7 +66,7 @@ Chesley Brown
 	
 - **Other Skills & Traits**
 	
-	Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Transferring Knowledge, Documenting, Technical Scoping, Research & Development
+	Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, Research & Development
 	
 
 ## Experience
@@ -79,8 +79,7 @@ Chesley Brown
 	- Provide leadership and ensure the quality of code produced by the development team through pull requests and code reviews.
 	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures.
 	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](http://12factor.net) app design and continuous deployment.
-	- Manages the automated compilation, assembly, maintenance and delivery of source code to our production servers.
-	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [SCORM Engine](http://scorm.com/engine), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](http://tincanapi.com).
+	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org), [SCORM Engine](http://scorm.com/engine), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](http://tincanapi.com).
 	
 - **Satusfirm**
 	
@@ -105,7 +104,7 @@ Chesley Brown
 
 - **RentChek** - _[rentchek.com](https://rentchek.com)_
 	
-	Responsive web app I built for managing rental properties. Powered by [Sass](http://sass-lang.com), [AngularJS](https://angularjs.org), [MongoDB](http://mongodb.org), [NodeJS](http://nodejs.org), [nginx](http://nginx.org), [Docker](http://docker.io) and [12 Factor](http://12factor.net) app design.
+	Responsive web app I built for managing rental properties. Powered by [Sass](http://sass-lang.com), [AngularJS](https://angularjs.org), [MongoDB](http://mongodb.org), [NodeJS](http://nodejs.org), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org) and [12 Factor](http://12factor.net) app design.
 	
 - **Synapsie** - _[synapsie.com](http://synapsie.com)_
 	
@@ -117,7 +116,7 @@ Chesley Brown
 	
 - **Bluedrop Learning Networks Platform** - _Work in Progress_
 	
-	New platform led by myself and my team of developers at [Bluedrop](http://www.bluedrop.com). A custom built eLearning platform consisting of apps following [12 Factor](http://12factor.net) design. Using technologies such as [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Sass](http://sass-lang.com), [GruntJS](http://gruntjs.com), [Docker](http://docker.io) and [Postgres](http://www.postgresql.org). Although this is a work in progress, you can [preview the API documentation online](http://bln-docs.coursepark.com).
+	New platform led by myself and my team of developers at [Bluedrop](http://www.bluedrop.com). A custom built eLearning platform consisting of apps following [12 Factor](http://12factor.net) design. Using technologies such as [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Sass](http://sass-lang.com), [GruntJS](http://gruntjs.com), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org), [Docker](http://docker.io), [Postgres](http://www.postgresql.org), [Redis](http://redis.io). Although this is a work in progress, you can [preview the API documentation online](http://bln-docs.coursepark.com).
 	
 - **PeerPerks** - _[chesleybrown.github.io/peerperks](http://chesleybrown.github.io/peerperks/)_
 	
@@ -129,14 +128,15 @@ Chesley Brown
 	
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 	
-	[pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive), [randomclass-directive](https://github.com/chesleybrown/randomclass-directive)
+	The following are just a few examples of my contributions to the open source community:
+	[pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive), [uservoice-trigger-directive](https://github.com/chesleybrown/uservoice-trigger-directive), [bitbucket-codeship-status](https://github.com/chesleybrown/bitbucket-codeship-status)
 	
 
 
 ## Hobbies
 
 - Snowboarding - _Moderately skilled_
-- Competitive Video Games - _[Starcraft](http://starcraft2.com), [Counter-Strike](http://blog.counter-strike.net), etc_
+- Competitive Video Games - _[Starcraft](http://starcraft2.com) and [Counter-Strike](http://blog.counter-strike.net)_
 - Juggling - _Intermediate_
 - Programming - _Yes, it's also a hobby_
 - Shovelling Snow - _Mandatory hobby in Newfoundland_
