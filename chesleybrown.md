@@ -105,11 +105,6 @@ Chesley Brown
 	- Provided leadership within the development team.
 	- Utilized technologies such as [PHP](https://php.net), [jQuery](http://jquery.com), [CVS](http://www.nongnu.org/cvs/), [SVN](http://subversion.apache.org), [Apache](https://httpd.apache.org), [MySql](http://www.mysql.com) and [Smarty Template Engine](http://www.smarty.net).
 
-- **Recent Conferences**
-
-	- Presented [RentChek](https://rentchek.com) at [Startup NL DemoCamp](http://www.meetup.com/StartupNL/events/168636192/)
-	- Attended [Security BSides](http://www.securitybsides.com), [Go Beyond Pixels](http://gobeyondpixels.com) and [Lunch and Learn with Peter Moreira](http://www.meetup.com/StartupNL/events/180033782/)
-
 
 ## Projects
 
