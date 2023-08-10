@@ -6,78 +6,39 @@ Chesley Brown
 - [me@chesleybrown.ca](mailto:me@chesleybrown.ca)
 - `709-697-5407`
 
-## Education
-
-- **College of the North Atlantic** - _[cna.nl.ca](http://www.cna.nl.ca)_
-
-	Website Administrator - _Class of 2007_
-	> Graduated with a _4.0 GPA_
-
 
 ## Skills
 
-- **Javascript** - _Proficient_
-
-	[NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [jQuery](http://jquery.com), [GruntJS](http://gruntjs.com)
-
-- **HTML & CSS** - _Proficient_
-
-	[Sass](http://sass-lang.com), [Responsive Web Design](http://en.wikipedia.org/wiki/Responsive_web_design)
-
-- **Package Management** - _Proficient_
-
-	[npm](https://www.npmjs.org), [bower](http://bower.io), [Composer](https://getcomposer.org)
-
-- **PHP** - _Proficient_
-
-	[Zend Framework](http://framework.zend.com), [CakePHP](http://cakephp.org)
-
-- **Python** - _Competent_
-
-	[Django](https://www.djangoproject.com)
-
-- **Source Control** - _Proficient_
-
-	[Git](http://git-scm.com), [SVN](http://subversion.apache.org), [CVS](http://www.nongnu.org/cvs/)
-
-- **Objective-C** - _Some Experience_
-
-	[iOS](https://www.apple.com/ca/ios/), [Xcode](https://developer.apple.com/xcode/)
-
-- **Databases** - _Competent_
-
-	[MySql](http://www.mysql.com), [Postgres](http://www.postgresql.org), [MongoDB](http://mongodb.org), [Firebase](http://firebase.com)
-
-- **Unit & Functional Testing** - _Proficient_
-
-	[Mocha](http://mochajs.org), [JasmineBD](http://jasmine.github.io), [Selenium](http://docs.seleniumhq.org), [phpunit](http://phpunit.de)
-
-- **Servers** - _Competent_
-
-	[Ubuntu](http://www.ubuntu.com/download/server), [nginx](http://nginx.org), [Apache](https://httpd.apache.org)
-
-- **Infrastructure & DevOps** - _Proficient_
-
-	[Docker](http://docker.io), [Puppet](http://puppetlabs.com), [Vagrant](http://www.vagrantup.com), [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration), [Heroku](http://heroku.com), [Modulus](http://modulus.io), [12 Factor](http://12factor.net)
-
-- **eLearning** - _Competent_
-
-	[SCORM Engine](http://scorm.com/engine), [SCORM Cloud](http://scorm.com/cloud), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee), [TinCan API](http://tincanapi.com)
-
-- **Other Skills & Traits**
-
-	Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, Research & Development
+- Proficient in Golang, Javascript (TypeScript, React, Angular), HTML, CSS (Sass, Responsive Web Design), Git, Bash, Docker, Continuous Integration, Debuggers (Browser, IDE), and Unit & Functional Testing
+- Competent in PHP, Python, Mysql, Postgres, and MongoDB
+- Experiences with iOS Development (Swift) and Java
+- Other skills & traits include Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, and Research & Development
 
 
 ## Experience
 
 - **InVision** - _[invisionapp.com](http://invisionapp.com)_
 
-	Full-Stack Developer - _Aug 2015 to Present_
+	Lead Software Engineer - _Oct 2018 to Present_
 
-	- Tasked with enhancing and extending their SaaS architecture.
-	- Help design and develop new services and capabilities.
-	- Drive to continuously maintain high product quality and improve the process.
+	- Acted as Intrim Engineering Manager from _Feb 2019 to May 2020_
+	  - Conducted 1-on-1's and performance reviews with team members
+	  - Worked with Directors, Managers and Staff Engineers to plan and prioritize work
+	  - Cooridnated sprint planning, retrospectives and other team meetings
+	- Planned and cooridnate large scale projects across multiple teams
+	- Managed build & deploy processes over 100 services using tools such as Github Actions, Docker, and Kubernetes
+	- Custom built local development environment that required orchestrating over 100 microservices using tools such as AWS, Docker, continuous integration, and custom CLIs to manage the environment for developers
+	- Assisted with sunsetting and cost monitoring and reduction efforts
+	- Built custom Slack bot for managing deployments and releases
+	- Conducted interviews and onboarding for new software engineers
+	- Providing support and mentorship to other software engineers
+	- Handled on-call duties for production issues
+
+	Senior Software Engineer - _Aug 2015 to Oct 2018_
+
+	- Tasked with enhancing and extending their SaaS architecture
+	- Help design and develop new services and capabilities
+	- Drive to continuously maintain high product quality and improve the process
 	- Using tools tools like [Git](http://git-scm.com), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://confluence.atlassian.com), [Jenkins/CI](https://jenkins-ci.org)
 	- Work in rapid development cycles
 	- Utilize technologies such as [NodeJS](http://nodejs.org), [ExpressJS](http://expressjs.com), [npm](https://www.npmjs.org), [GulpJS](http://gulpjs.com), [AngularJS](https://angularjs.org), [Docker](https://www.docker.com), [Vagrant](http://www.vagrantup.com), [MySQL](https://www.mysql.com)
@@ -86,24 +47,24 @@ Chesley Brown
 
 	Lead Programmer & Release Engineer - _Oct 2008 to Aug 2015_
 
-	- Involved in problem solving and architecting solutions.
-	- Provide leadership and ensure the quality of code produced by the development team through pull requests and code reviews.
-	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures.
-	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](http://12factor.net) app design and continuous deployment.
-	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org), [SCORM Engine](http://scorm.com/engine), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](http://tincanapi.com).
+	- Involved in problem solving and architecting solutions
+	- Provide leadership and ensure the quality of code produced by the development team through pull requests and code reviews
+	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures
+	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](http://12factor.net) app design and continuous deployment
+	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org), [SCORM Engine](http://scorm.com/engine), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](http://tincanapi.com)
 
 - **Satusfirm**
 
 	Web Application Developer - _Jul 2007 to Aug 2008_
 
-	- Contributed to media websites that served 1000's of simultaneous viewers.
-	- Developed live comment system.
-	- Website optimization.
-	- Integrated a third-party ticket purchasing system using a provided API.
-	- Built parsers for provided government files.
-	- Developed website graphics using GIMP, Photoshop and Illustrator.
-	- Provided leadership within the development team.
-	- Utilized technologies such as [PHP](https://php.net), [jQuery](http://jquery.com), [CVS](http://www.nongnu.org/cvs/), [SVN](http://subversion.apache.org), [Apache](https://httpd.apache.org), [MySql](http://www.mysql.com) and [Smarty Template Engine](http://www.smarty.net).
+	- Contributed to media websites that served 1000's of simultaneous viewers
+	- Developed live comment system
+	- Website optimization
+	- Integrated a third-party ticket purchasing system using a provided API
+	- Built parsers for provided government files
+	- Developed website graphics using GIMP, Photoshop and Illustrator
+	- Provided leadership within the development team
+	- Utilized technologies such as [PHP](https://php.net), [jQuery](http://jquery.com), [CVS](http://www.nongnu.org/cvs/), [SVN](http://subversion.apache.org), [Apache](https://httpd.apache.org), [MySql](http://www.mysql.com) and [Smarty Template Engine](http://www.smarty.net)
 
 
 ## Projects
@@ -141,6 +102,13 @@ Chesley Brown
 	The following are just a few examples of my contributions to the open source community:
 	[pongular](https://github.com/FungusHumungus/pongular), [grunt-aglio](https://github.com/arbus/grunt-aglio), [knex](https://github.com/tgriesser/knex), [allmighty-autocomplete](https://github.com/JustGoscha/allmighty-autocomplete), [autofill-directive](https://github.com/chesleybrown/autofill-directive), [uservoice-trigger-directive](https://github.com/chesleybrown/uservoice-trigger-directive), [bitbucket-codeship-status](https://github.com/chesleybrown/bitbucket-codeship-status)
 
+
+## Education
+
+- **College of the North Atlantic** - _[cna.nl.ca](http://www.cna.nl.ca)_
+
+	Website Administrator - _Class of 2007_
+	> Graduated with a _4.0 GPA_
 
 
 ## Hobbies
