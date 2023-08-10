@@ -154,7 +154,7 @@ Chesley Brown
 - Competitive Video Games - _[Starcraft](http://starcraft2.com) and [Counter-Strike](http://blog.counter-strike.net)_
 - Juggling - _Intermediate_
 - Programming - _Yes, it's also a hobby_
-- Shoveling Snow - _Mandatory hobby in Newfoundland_
+- Shoveling Snow - _Mandatory hobby in Nova Scotia_
 
 ## References
 
