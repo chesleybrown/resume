@@ -55,7 +55,7 @@ Chesley Brown
 	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](http://12factor.net) app design and continuous deployment
 	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](http://framework.zend.com), [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Docker](http://docker.io), [Vagrant](http://www.vagrantup.com), [Puppet](http://puppetlabs.com), [Git](http://git-scm.com), [Sass](http://sass-lang.com), [Postgres](http://www.postgresql.org), [npm](https://www.npmjs.org), [bower](http://bower.io), [GruntJS](http://gruntjs.com), [jQuery](http://jquery.com), [phpunit](http://phpunit.de), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org), [SCORM Engine](http://scorm.com/engine), [SCORM 1.2/2004](http://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](http://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](http://tincanapi.com)
 
-- **Satusfirm**
+- **Statusfirm**
 
 	Web Application Developer - _Jul 2007 to Aug 2008_
 
