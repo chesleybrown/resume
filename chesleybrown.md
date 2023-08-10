@@ -24,14 +24,16 @@ Chesley Brown
 	- Acted as Intrim Engineering Manager from _Feb 2019 to May 2020_
 	  - Conducted 1-on-1's and performance reviews with team members
 	  - Worked with Directors, Managers and Staff Engineers to plan and prioritize work
-	  - Cooridnated sprint planning, retrospectives and other team meetings
+	  - Cooridnated sprint planning, retrospectives, effort estimations and other team meetings
 	- Planned and cooridnate large scale projects across multiple teams
 	- Managed build & deploy processes over 100 services using tools such as Github Actions, Docker, and Kubernetes
-	- Custom built local development environment that required orchestrating over 100 microservices using tools such as AWS, Docker, continuous integration, and custom CLIs to manage the environment for developers
+	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as AWS, Docker, continuous integration, and custom built CLIs
+	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seemlessly from MySQL to DynamoDB
+	- Worked on resolving obscue bugs in the new InVision Freehand product using debugger tools
 	- Assisted with sunsetting and cost monitoring and reduction efforts
 	- Built custom Slack bot for managing deployments and releases
 	- Conducted interviews and onboarding for new software engineers
-	- Providing support and mentorship to other software engineers
+	- Provided support and mentorship to other software engineers
 	- Handled on-call duties for production issues
 
 	Senior Software Engineer - _Aug 2015 to Oct 2018_
@@ -88,6 +90,10 @@ Chesley Brown
 - **Bluedrop Learning Networks Platform** - _Work in Progress_
 
 	New platform led by myself and my team of developers at [Bluedrop](http://www.bluedrop.com). A custom built eLearning platform consisting of apps following [12 Factor](http://12factor.net) design. Using technologies such as [NodeJS](http://nodejs.org), [AngularJS](https://angularjs.org), [Sass](http://sass-lang.com), [GruntJS](http://gruntjs.com), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org), [Docker](http://docker.io), [Postgres](http://www.postgresql.org), [Redis](http://redis.io). Although this is a work in progress, you can [preview the API documentation online](http://bln-docs.coursepark.com).
+
+- **Story Point Commander** - _[github.com/chesleybrown/story-point-commander](https://github.com/chesleybrown/story-point-commander)_
+
+	Very opinionated story point poker I built as a side project. Allows collaboratively estimating stories by thinking about the solution effort + additional testing effort + risk level. Easily deploy the application yourself for free using Vercel.
 
 - **PeerPerks** - _[chesleybrown.github.io/peerperks](http://chesleybrown.github.io/peerperks/)_
 
