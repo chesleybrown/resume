@@ -81,7 +81,7 @@ Chesley Brown
 
 - **Synapsie** - _[synapsie.com](https://github.com/chesleybrown/synapsie)_
 
-	Web service I created for recording life memories. Powered by [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Apache](https://httpd.apache.org) and [jQuery](http://jquery.com).
+	Web app I created for recording life memories. Powered by [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Apache](https://httpd.apache.org) and [jQuery](http://jquery.com).
 
 - **CoursePark** - _[coursepark.com](https://www.coursepark.com)_
 
