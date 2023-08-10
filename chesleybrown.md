@@ -116,7 +116,7 @@ Chesley Brown
 
 	Responsive web app I built for managing rental properties. Powered by [Sass](http://sass-lang.com), [AngularJS](https://angularjs.org), [MongoDB](http://mongodb.org), [NodeJS](http://nodejs.org), [JasmineBD](http://jasmine.github.io), [Mocha](http://mochajs.org) and [12 Factor](http://12factor.net) app design.
 
-- **Synapsie** - _[synapsie.com](http://synapsie.com)_
+- **Synapsie** - _[synapsie.com](https://github.com/chesleybrown/synapsie)_
 
 	Web service I created for recording life memories. Powered by [Python](https://www.python.org), [Django](https://www.djangoproject.com), [Apache](https://httpd.apache.org) and [jQuery](http://jquery.com).
 
