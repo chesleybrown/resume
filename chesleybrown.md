@@ -101,7 +101,7 @@ Chesley Brown
 
 - **Portfolio** - _[chesleybrown.ca](http://chesleybrown.ca)_
 
-	My custom built portfolio. Has a blog that I designed to integrate directly with Evernote as well as a custom aggregated social feed. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio). Powered by [NodeJS](http://nodejs.org), [MongoDB](http://mongodb.org), [AngularJS](https://angularjs.org) and [Evernote](https://evernote.com).
+	My custom built portfolio. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio). Powered by [NodeJS](http://nodejs.org) and [AngularJS](https://angularjs.org), and hosted on [Vercel](http://vercel.com).
 
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 
