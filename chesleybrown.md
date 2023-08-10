@@ -1,6 +1,6 @@
 Chesley Brown
 ======
-> Founder of RentChek. Lead Programmer at Bluedrop. Coding enthusiast. Awesome Guy.
+> Founder of [RentChek](https://rentchek.com). Lead Software Engineer at [InVision](https://www.invisionapp.com). Coding enthusiast. Husband & Father.
 
 - [chesleybrown.ca](http://chesleybrown.ca)
 - [me@chesleybrown.ca](mailto:me@chesleybrown.ca)
@@ -154,7 +154,7 @@ Chesley Brown
 - Competitive Video Games - _[Starcraft](http://starcraft2.com) and [Counter-Strike](http://blog.counter-strike.net)_
 - Juggling - _Intermediate_
 - Programming - _Yes, it's also a hobby_
-- Shoveling Snow - _Mandatory hobby in Nova Scotia_
+- Shovelling Snow - _Mandatory hobby in Nova Scotia_
 
 ## References
 
