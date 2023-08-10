@@ -120,7 +120,7 @@ Chesley Brown
 ## Hobbies
 
 - Snowboarding - _Moderately skilled_
-- Competitive Video Games - _[Starcraft](http://starcraft2.com) and [Counter-Strike](http://blog.counter-strike.net)_
+- Casual Gamer - _[Starcraft](http://starcraft2.com), [Counter-Strike](http://blog.counter-strike.net)_ and misc VR games
 - Juggling - _Intermediate_
 - Programming - _Yes, it's also a hobby_
 - Shovelling Snow - _Mandatory hobby in Nova Scotia_
