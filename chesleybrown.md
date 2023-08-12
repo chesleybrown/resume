@@ -29,7 +29,7 @@ Chesley Brown
 	- Managed build & deploy processes over 100 services using tools such as Github Actions, Docker, and Kubernetes
 	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as AWS, Docker, continuous integration, and custom built CLIs
 	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seemlessly (zero down time and zero data loss) from MySQL to DynamoDB
-	- Worked on resolving obscue bugs in the new InVision Freehand product using debugger tools
+	- Worked on resolving obscure bugs in the new InVision Freehand product using debugger tools
 	- Assisted with sunsetting and cost monitoring and reduction efforts
 	- Built custom Slack bot for managing deployments and releases
 	- Conducted interviews and onboarding for new software engineers
