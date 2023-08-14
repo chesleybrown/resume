@@ -21,14 +21,14 @@ Chesley Brown
 
 	Lead Software Engineer - _Oct 2018 to Present_
 
-	- Acted as Intrim Engineering Manager from _Feb 2019 to May 2020_
+	- Acted as Interim Engineering Manager from _Feb 2019 to May 2020_
 	  - Conducted 1-on-1's and performance reviews with team members
 	  - Worked with Directors, Managers and Staff Engineers to plan and prioritize work
-	  - Cooridnated sprint planning, retrospectives, effort estimations and other team meetings
-	- Planned and cooridnate large scale projects across multiple teams
-	- Managed build & deploy processes over 100 services using tools such as Github Actions, Docker, and Kubernetes
+	  - Coordinated sprint planning, retrospectives, effort estimations and other team meetings
+	- Planned and coordinated large scale projects across multiple teams
+	- Managed build & deploy processes for over 100 services using tools such as Github Actions, Docker, and Kubernetes
 	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as AWS, Docker, continuous integration, and custom built CLIs
-	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seemlessly (zero down time and zero data loss) from MySQL to DynamoDB
+	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seamlessly (zero down time and zero data loss) from MySQL to DynamoDB
 	- Worked on resolving obscure bugs in the new InVision Freehand product using debugger tools
 	- Assisted with sunsetting and cost monitoring and reduction efforts
 	- Built custom Slack bot for managing deployments and releases
