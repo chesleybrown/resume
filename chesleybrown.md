@@ -12,7 +12,7 @@ Chesley Brown
 - Proficient in Golang, Javascript (TypeScript, React, Angular), HTML, CSS (Tailwind, Sass, Responsive Web Design), Git, Bash, Docker, Continuous Integration, Debuggers (Browser, IDE), and Unit & Functional Testing
 - Competent in PHP, Python, Mysql, Postgres, DynamoDB, Redis and MongoDB
 - Experiences with iOS Development (Swift) and Java
-- Other skills & traits include Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, and Research & Development
+- Other skills & traits include Remote Work (8+ years), Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, and Research & Development
 
 
 ## Experience
@@ -29,12 +29,13 @@ Chesley Brown
 	- Managed build & deploy processes for over 100 services using tools such as Github Actions, Docker, and Kubernetes
 	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as AWS, Docker, continuous integration, and custom built CLIs
 	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seamlessly (zero down time and zero data loss) from MySQL to DynamoDB
-	- Worked on resolving obscure bugs in the new InVision Freehand product using debugger tools
+	- Resolved obscure bugs in the expansive and complex Freehand codebase using debugger tools
 	- Assisted with sunsetting and cost monitoring and reduction efforts
 	- Built custom Slack bot for managing deployments and releases
 	- Conducted interviews and onboarding for new software engineers
 	- Provided support and mentorship to other software engineers
 	- Handled on-call duties for production issues
+	- All work was conducted remotely
 
 	Senior Software Engineer - _Aug 2015 to Oct 2018_
 
@@ -42,7 +43,7 @@ Chesley Brown
 	- Help design and develop new services and capabilities
 	- Drive to continuously maintain high product quality and improve the process
 	- Using tools tools like [Git](https://git-scm.com), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://confluence.atlassian.com), [Jenkins/CI](https://jenkins-ci.org)
-	- Work in rapid development cycles
+	- Worked remotely and in rapid development cycles
 	- Utilize technologies such as [NodeJS](https://nodejs.org), [ExpressJS](https://expressjs.com), [npm](https://www.npmjs.org), [GulpJS](https://gulpjs.com), [AngularJS](https://angularjs.org), [Docker](https://www.docker.com), [Vagrant](https://www.vagrantup.com), [MySQL](https://www.mysql.com)
 
 - **Bluedrop Performance Learning** - _[bluedrop.com](https://www.bluedrop.com)_
@@ -73,7 +74,7 @@ Chesley Brown
 
 - **InVision Freehand & Prototyping** - _[invisionapp.com](https://invisionapp.com)_
 
-	A prototyping, workflow, and collaboration platform for designers. Powered by [React](https://react.dev), [Go](https://go.dev), [NodeJS](https://nodejs.org), [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io) and more. I worked on portions of the frontend, but mainly worked on backend services, infrastructure, and internal developer tools. I also contributed to InVision Freehand; an all-in-one collaborative online whiteboard, which was powered by much of the same technology stack.
+	A prototyping, workflow, and collaboration platform for designers. Powered by [React](https://react.dev), [Go](https://go.dev), [NodeJS](https://nodejs.org), [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io) and more. I worked on portions of the frontend, but mainly worked on backend services, infrastructure, and internal developer tools. I also contributed to InVision Freehand; an all-in-one collaborative online whiteboard, which was powered by much of the same technology stack. All of my work at InVision was done remotely.
 
 - **RentChek** - _[rentchek.com](https://rentchek.com)_
 
