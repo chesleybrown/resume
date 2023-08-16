@@ -94,7 +94,7 @@ Chesley Brown
 
 - **Story Point Commander** - _[github.com/chesleybrown/story-point-commander](https://github.com/chesleybrown/story-point-commander)_
 
-	Very opinionated story point poker I built as a side project. Allows collaboratively estimating stories by thinking about the solution effort + additional testing effort + risk level. Easily deploy the application yourself for free using Vercel.
+	Very opinionated story point poker I built as a side project. Allows collaboratively estimating stories by thinking about the solution effort + additional testing effort + risk level. Easily deploy the application yourself for free using Vercel. Powered by [TypeScript](https://www.typescriptlang.org), [Firebase](https://firebase.google.com), [Next.js](https://nextjs.org) and [React](https://react.dev).
 
 - **PeerPerks** - _[chesleybrown.github.io/peerperks](https://chesleybrown.github.io/peerperks/)_
 
