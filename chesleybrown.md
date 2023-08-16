@@ -94,15 +94,15 @@ Chesley Brown
 
 - **Story Point Commander** - _[github.com/chesleybrown/story-point-commander](https://github.com/chesleybrown/story-point-commander)_
 
-	Very opinionated story point poker I built as a side project. Allows collaboratively estimating stories by thinking about the solution effort + additional testing effort + risk level. Easily deploy the application yourself for free using Vercel. Powered by [TypeScript](https://www.typescriptlang.org), [Firebase](https://firebase.google.com), [Next.js](https://nextjs.org) and [React](https://react.dev).
-
-- **PeerPerks** - _[chesleybrown.github.io/peerperks](https://chesleybrown.github.io/peerperks/)_
-
-	OpenSource web app I created to encourage peer code review through gamification with incentives. Powered by [Firebase](https://firebase.com) and [AngularJS](https://angularjs.org).
+	Very opinionated story point poker I built as a side project. Allows collaboratively estimating stories by thinking about the solution effort + additional testing effort + risk level. Easily deploy the application yourself for free using Vercel. Powered by [TypeScript](https://www.typescriptlang.org), [Firebase](https://firebase.google.com), [Next.js](https://nextjs.org), [React](https://react.dev), and hosted on [Vercel](https://vercel.com).
 
 - **Portfolio** - _[chesleybrown.ca](https://chesleybrown.ca)_
 
 	My custom built portfolio. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio). Powered by [NodeJS](https://nodejs.org) and [AngularJS](https://angularjs.org), and hosted on [Vercel](https://vercel.com).
+
+- **PeerPerks** - _[chesleybrown.github.io/peerperks](https://chesleybrown.github.io/peerperks/)_
+
+	OpenSource web app I created to encourage peer code review through gamification with incentives. Powered by [Firebase](https://firebase.com) and [AngularJS](https://angularjs.org).
 
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 
