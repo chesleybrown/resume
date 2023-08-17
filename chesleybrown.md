@@ -100,10 +100,6 @@ Chesley Brown
 
 	My custom built portfolio. Source code can be seen at [github.com/chesleybrown/portfolio](https://github.com/chesleybrown/portfolio). Powered by [NodeJS](https://nodejs.org) and [AngularJS](https://angularjs.org), and hosted on [Vercel](https://vercel.com).
 
-- **PeerPerks** - _[chesleybrown.github.io/peerperks](https://chesleybrown.github.io/peerperks/)_
-
-	OpenSource web app I created to encourage peer code review through gamification with incentives. Powered by [Firebase](https://firebase.com) and [AngularJS](https://angularjs.org).
-
 - **Open Source Contributions** - _[github.com/chesleybrown](https://github.com/chesleybrown)_
 
 	The following are just a few examples of my contributions to the open source community:
