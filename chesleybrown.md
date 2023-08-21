@@ -24,12 +24,11 @@ Chesley Brown
 	  - Worked with Directors, Managers and Staff Engineers to plan and prioritize work
 	  - Coordinated sprint planning, retrospectives, effort estimations and other team meetings
 	- Planned and coordinated large scale projects across multiple teams
-	- Led upgrades of large scale, integral services with minimal or zero downtime
-	- Added e2e test coverage of essential services
+	- Led upgrades of large scale, integral services with minimal or zero downtime accomplished by adding e2e test coverage coupled with careful rollout strategies that included rollback plans
 	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as [AWS](https://aws.amazon.com), [Docker](https://www.docker.com), continuous integration, and custom built CLIs
 	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seamlessly (zero down time and zero data loss) from [MySQL](https://www.mysql.com) to [DynamoDB](https://aws.amazon.com/dynamodb/)
 	- Focus on writing well tested, documented and maintainable distributed services with runbooks, monitoring, alerts, logs, and tracing
-	- Resolved elusive bugs in the expansive and complex Freehand codebase using debugger tools
+	- Improved Freehand stability by resolving elusive bugs in the expansive and complex codebase using debugger tools
 	- Assisted with sunsetting services and cost monitoring and reduction efforts
 	- Conducted interviews and onboarding for new software engineers
 	- Collaborated with and provided support and mentorship to other software engineers
