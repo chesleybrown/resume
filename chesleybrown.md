@@ -1,50 +1,50 @@
 Chesley Brown
 ======
-> Founder of [RentChek](https://rentchek.com). Lead Software Engineer at [InVision](https://www.invisionapp.com). Coding enthusiast. Husband & Father.
 
-- [chesleybrown.ca](https://chesleybrown.ca)
-- [me@chesleybrown.ca](mailto:me@chesleybrown.ca)
-- `709-697-5407`
+> Founder of [RentChek](https://rentchek.com). Lead Software Engineer at [InVision](https://www.invisionapp.com). Coding enthusiast. Husband & Father.
+>
+> [chesleybrown.ca](https://chesleybrown.ca) / [me@chesleybrown.ca](mailto:me@chesleybrown.ca) / `709-697-5407`
 
 
 ## Skills
 
 - Proficient in Golang, Javascript (TypeScript, React, Angular), HTML, CSS (Tailwind, Sass, Responsive Web Design), Git, Bash, Docker, Continuous Integration, Debuggers (Browser, IDE), and Unit & Functional Testing
 - Competent in PHP, Python, Mysql, Postgres, DynamoDB, Redis and MongoDB
-- Experiences with iOS Development (Swift) and Java
-- Other skills & traits include Remote Work (8+ years), Project Management, Self-initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, and Research & Development
+- Other skills & traits include Remote Work (8+ years), Project Management, Self-Initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, and Research & Development
 
 
 ## Experience
 
 - **InVision** - _[invisionapp.com](https://invisionapp.com)_
 
-	Lead Software Engineer - _Oct 2018 to Present_
+	Lead Software Engineer - _Oct 2018 to Aug 2023_
 
 	- Acted as Interim Engineering Manager from _Feb 2019 to May 2020_
-	  - Conducted 1-on-1's and performance reviews with team members
+	  - Conducted regular 1-on-1's, guided career paths and performance reviews
 	  - Worked with Directors, Managers and Staff Engineers to plan and prioritize work
 	  - Coordinated sprint planning, retrospectives, effort estimations and other team meetings
 	- Planned and coordinated large scale projects across multiple teams
-	- Managed build & deploy processes for over 100 services using tools such as Github Actions, Docker, and Kubernetes
-	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as AWS, Docker, continuous integration, and custom built CLIs
-	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seamlessly (zero down time and zero data loss) from MySQL to DynamoDB
-	- Resolved obscure bugs in the expansive and complex Freehand codebase using debugger tools
-	- Assisted with sunsetting and cost monitoring and reduction efforts
-	- Built custom Slack bot for managing deployments and releases
+	- Lead upgrades of large scale, integral services with minimal or zero downtime
+	- Added e2e test coverage of essential services
+	- Focused on improving developer velocity by custom building a local development environment with clear documentation that orchestrated over 100 micro-services using tools such as [AWS](https://aws.amazon.com), [Docker](https://www.docker.com), continuous integration, and custom built CLIs
+	- Worked on internal assets API service that managed the over 300 million assets used by the InVision platform and helped with migrating all data seamlessly (zero down time and zero data loss) from [MySQL](https://www.mysql.com) to [DynamoDB](https://aws.amazon.com/dynamodb/)
+	- Focus on writing well tested, documented and maintainable distributed services with runbooks, monitoring, alerts, logs, and tracing
+	- Resolved elusive bugs in the expansive and complex Freehand codebase using debugger tools
+	- Assisted with sunsetting services and cost monitoring and reduction efforts
 	- Conducted interviews and onboarding for new software engineers
-	- Provided support and mentorship to other software engineers
-	- Handled on-call duties for production issues
-	- All work was conducted remotely
+	- Collaborated with and provided support and mentorship to other software engineers
+	- Handled support and on-call duties for production issues
+	- All work and communication was conducted remotely
+	- Extensive use of [Go](https://go.dev), [NodeJS](https://nodejs.org), [TypeScript](https://www.typescriptlang.org), [Docker](https://www.docker.com), [React](https://react.dev), [MySQL](https://www.mysql.com), [DynamoDB](https://aws.amazon.com/dynamodb/) and more
 
 	Senior Software Engineer - _Aug 2015 to Oct 2018_
 
-	- Tasked with enhancing and extending their SaaS architecture
-	- Help design and develop new services and capabilities
-	- Drive to continuously maintain high product quality and improve the process
-	- Using tools tools like [Git](https://git-scm.com), [Jira](https://www.atlassian.com/software/jira), [Confluence](https://confluence.atlassian.com), [Jenkins/CI](https://jenkins-ci.org)
 	- Worked remotely and in rapid development cycles
-	- Utilize technologies such as [NodeJS](https://nodejs.org), [ExpressJS](https://expressjs.com), [npm](https://www.npmjs.org), [GulpJS](https://gulpjs.com), [AngularJS](https://angularjs.org), [Docker](https://www.docker.com), [Vagrant](https://www.vagrantup.com), [MySQL](https://www.mysql.com)
+	- Managed build & deploy processes for over 100 services using tools such as [Github Actions](https://github.com/features/actions), [Docker](https://www.docker.com), and [Kubernetes](https://kubernetes.io) running on [AWS](https://aws.amazon.com)
+	- Built custom Slack bot for managing deployments and releases
+	- Designed and built internal platform dashboard for monitoring and managing deployed services with interface powered by [React](https://react.dev)
+	- Advocated for high code quality, test coverage, automation and improved processes
+	- Utilized technologies such as [NodeJS](https://nodejs.org), [ExpressJS](https://expressjs.com), [npm](https://www.npmjs.org), [GulpJS](https://gulpjs.com), [AngularJS](https://angularjs.org), [Docker](https://www.docker.com), [Vagrant](https://www.vagrantup.com), and [MySQL](https://www.mysql.com)
 
 - **Bluedrop Performance Learning** - _[bluedrop.com](https://www.bluedrop.com)_
 
@@ -55,19 +55,6 @@ Chesley Brown
 	- Involved in writing specifications, solution scoping, evaluating risks, time estimations, assessing resources and designing technical architectures
 	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](https://12factor.net) app design and continuous deployment
 	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](https://framework.zend.com), [NodeJS](https://nodejs.org), [AngularJS](https://angularjs.org), [Docker](https://docker.io), [Vagrant](https://www.vagrantup.com), [Puppet](https://puppetlabs.com), [Git](https://git-scm.com), [Sass](https://sass-lang.com), [Postgres](https://www.postgresql.org), [npm](https://www.npmjs.org), [bower](https://bower.io), [GruntJS](https://gruntjs.com), [jQuery](https://jquery.com), [phpunit](https://phpunit.de), [JasmineBD](https://jasmine.github.io), [Mocha](https://mochajs.org), [SCORM Engine](https://scorm.com/engine), [SCORM 1.2/2004](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](https://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](https://tincanapi.com)
-
-- **Statusfirm**
-
-	Web Application Developer - _Jul 2007 to Aug 2008_
-
-	- Contributed to media websites that served 1000's of simultaneous viewers
-	- Developed live comment system
-	- Website optimization
-	- Integrated a third-party ticket purchasing system using a provided API
-	- Built parsers for provided government files
-	- Developed website graphics using GIMP, Photoshop and Illustrator
-	- Provided leadership within the development team
-	- Utilized technologies such as [PHP](https://php.net), [jQuery](https://jquery.com), [CVS](https://www.nongnu.org/cvs/), [SVN](https://subversion.apache.org), [Apache](https://httpd.apache.org), [MySql](https://www.mysql.com) and [Smarty Template Engine](https://www.smarty.net)
 
 
 ## Projects
