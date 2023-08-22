@@ -55,6 +55,19 @@ Chesley Brown
 	- Perform DevOp duties including implementing and maintaining an agile development process, test & behaviour driven development, [12 Factor](https://12factor.net) app design and continuous deployment
 	- Utilize technologies such as [PHP](https://php.net), [Zend Framework](https://framework.zend.com), [NodeJS](https://nodejs.org), [AngularJS](https://angularjs.org), [Docker](https://docker.io), [Vagrant](https://www.vagrantup.com), [Puppet](https://puppetlabs.com), [Git](https://git-scm.com), [Sass](https://sass-lang.com), [Postgres](https://www.postgresql.org), [npm](https://www.npmjs.org), [bower](https://bower.io), [GruntJS](https://gruntjs.com), [jQuery](https://jquery.com), [phpunit](https://phpunit.de), [JasmineBD](https://jasmine.github.io), [Mocha](https://mochajs.org), [SCORM Engine](https://scorm.com/engine), [SCORM 1.2/2004](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model), [AICC](https://en.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee) and [TinCan API](https://tincanapi.com)
 
+- **Statusfirm**
+
+	Web Application Developer - _Jul 2007 to Aug 2008_
+
+	- Contributed to media websites that served 1000's of simultaneous viewers
+	- Developed live comment system
+	- Website optimization
+	- Integrated a third-party ticket purchasing system using a provided API
+	- Built parsers for provided government files
+	- Developed website graphics using GIMP, Photoshop and Illustrator
+	- Provided leadership within the development team
+	- Utilized technologies such as [PHP](https://php.net), [jQuery](https://jquery.com), [CVS](https://www.nongnu.org/cvs/), [SVN](https://subversion.apache.org), [Apache](https://httpd.apache.org), [MySql](https://www.mysql.com) and [Smarty Template Engine](https://www.smarty.net)
+
 
 ## Projects
 
