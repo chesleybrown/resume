@@ -25,13 +25,14 @@ jobs:
         run: |
           npm ci
           npm run generate
-      
+
       - name: Generate PDF 📄
-        uses: markwilson/html2pdf@v1.0
+        uses: LukaszLapaj/html-to-pdf-action@2.0.0
         with:
-          htmlPath: 'dist/chesleybrown.html'
-          pdfName: 'chesleybrown'
-      
+          htmlFile: ./dist/chesleybrown.html
+          outputFile: ./dist/chesleybrown.pdf
+          pdfOptions: '{"format": "Letter", "margin": {"top": "0", "left": "0", "right": "0", "bottom": "0"}}'
+
       - name: Dry-Run Deploy 🦺
         uses: JamesIves/github-pages-deploy-action@v4
         with:
