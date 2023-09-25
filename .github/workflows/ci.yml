@@ -1,6 +1,8 @@
 name: CI
 on: 
   push:
+    branches:
+      - master
   pull_request:
     types:
       - opened
@@ -10,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
