@@ -33,9 +33,16 @@ jobs:
           outputFile: ./dist/chesleybrown.pdf
           pdfOptions: '{"format": "Letter", "margin": {"top": "0", "left": "0", "right": "0", "bottom": "0"}}'
 
+      - name: Deploy Preview 👓
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./dist/
+
       - name: Dry-Run Deploy 🦺
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          force: false
+          clean-exclude: pr-preview/
           folder: dist
           dry-run: true
 
@@ -43,5 +50,7 @@ jobs:
         if: github.ref == 'refs/heads/master'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          force: false
+          clean-exclude: pr-preview/
           branch: gh-pages
           folder: dist
