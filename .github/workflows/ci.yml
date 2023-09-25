@@ -27,6 +27,12 @@ jobs:
         with:
           htmlPath: 'dist/chesleybrown.html'
           pdfName: 'chesleybrown'
+      
+      - name: Dry-Run Deploy 🦺
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          dry-run: true
 
       - name: Deploy 🚀
         if: github.ref == 'refs/heads/master'
