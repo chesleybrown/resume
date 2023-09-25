@@ -40,7 +40,8 @@ jobs:
           dry-run: true
 
       - name: Deploy 🚀
+        if: github.ref == 'refs/heads/master'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages-test
+          branch: gh-pages
           folder: dist
