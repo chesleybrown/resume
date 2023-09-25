@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  generate-and-deploy:
+  preview:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -36,14 +36,13 @@ jobs:
       - name: Generate PDF 📄
         uses: LukaszLapaj/html-to-pdf-action@2.0.0
         with:
-          htmlFile: ./dist/chesleybrown.html
+          htmlFile: ./dist/index.html
           outputFile: ./dist/chesleybrown.pdf
           pdfOptions: '{"format": "Letter", "margin": {"top": "0", "left": "0", "right": "0", "bottom": "0"}}'
 
       - name: Deploy Preview 👓
         uses: rossjrw/pr-preview-action@v1
         with:
-          custom-url: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}/chesleybrown.html
           source-dir: ./dist/
 
       - name: Dry-Run Deploy 🦺
