@@ -26,7 +26,7 @@ jobs:
         uses: markwilson/html2pdf@v1.0
         with:
           htmlPath: 'dist/chesleybrown.html'
-          pdfName: 'dist/chesleybrown'
+          pdfName: 'chesleybrown'
 
       - name: Deploy 🚀
         if: github.ref == 'refs/heads/master'
