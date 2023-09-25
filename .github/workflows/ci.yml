@@ -4,6 +4,10 @@ on: [push]
 permissions:
   contents: write
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate-and-deploy:
     runs-on: ubuntu-latest
@@ -35,7 +39,7 @@ jobs:
           dry-run: true
 
       - name: Deploy 🚀
-        if: github.ref == 'refs/heads/master'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          branch: gh-pages-test
           folder: dist
