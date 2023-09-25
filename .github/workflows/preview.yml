@@ -1,8 +1,5 @@
-name: CI
+name: Preview
 on: 
-  push:
-    branches:
-      - master
   pull_request:
     types:
       - opened
@@ -46,6 +43,7 @@ jobs:
       - name: Deploy Preview 👓
         uses: rossjrw/pr-preview-action@v1
         with:
+          custom-url: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}/chesleybrown.html
           source-dir: ./dist/
 
       - name: Dry-Run Deploy 🦺
@@ -55,12 +53,3 @@ jobs:
           clean-exclude: pr-preview/
           folder: dist
           dry-run: true
-
-      - name: Deploy 🚀
-        if: github.ref == 'refs/heads/master'
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          force: false
-          clean-exclude: pr-preview/
-          branch: gh-pages
-          folder: dist
