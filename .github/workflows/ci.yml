@@ -10,4 +10,4 @@ jobs:
           node-version: '18.17.1'
           cache: 'npm'
       - run: npm ci
-      - run: npm generate
+      - run: npm run generate
