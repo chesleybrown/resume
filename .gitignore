@@ -30,3 +30,6 @@ node_modules
 
 # OSX
 .DS_Store
+
+# Generated output
+dist
