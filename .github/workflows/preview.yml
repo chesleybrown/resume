@@ -1,0 +1,54 @@
+name: Preview
+on: 
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 📦
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.17.1'
+          cache: 'npm'
+
+      - name: Install Dependencies & Build 🏗️
+        run: |
+          npm ci
+          npm run generate
+
+      - name: Generate PDF 📄
+        uses: LukaszLapaj/html-to-pdf-action@2.0.0
+        with:
+          htmlFile: ./dist/index.html
+          outputFile: ./dist/chesleybrown.pdf
+          pdfOptions: '{"format": "Letter", "margin": {"top": "0", "left": "0", "right": "0", "bottom": "0"}}'
+
+      - name: Deploy Preview 👓
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./dist/
+
+      - name: Dry-Run Deploy 🦺
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          force: false
+          clean-exclude: pr-preview/
+          folder: dist
+          dry-run: true
