@@ -1,13 +1,29 @@
 name: CI
 on: [push]
+
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  generate-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js 📦
+        uses: actions/setup-node@v3
         with:
           node-version: '18.17.1'
           cache: 'npm'
-      - run: npm ci
-      - run: npm run generate
+      
+      - name: Install Dependencies & Build 🏗️
+        run: |
+          npm ci
+          npm run generate
+
+      - name: Deploy 🚀
+        if: github.ref == 'refs/heads/master'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
