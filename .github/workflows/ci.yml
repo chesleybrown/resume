@@ -10,17 +10,23 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
-      
+
       - name: Setup Node.js 📦
         uses: actions/setup-node@v3
         with:
           node-version: '18.17.1'
           cache: 'npm'
-      
+
       - name: Install Dependencies & Build 🏗️
         run: |
           npm ci
           npm run generate
+      
+      - name: Generate PDF 📄
+        uses: markwilson/html2pdf@v1.0
+        with:
+          htmlPath: 'dist/chesleybrown.html'
+          pdfName: 'chesleybrown.pdf'
 
       - name: Deploy 🚀
         if: github.ref == 'refs/heads/master'
