@@ -8,7 +8,7 @@ Chesley Brown
 
 ## Skills
 
-- Proficient in Golang, Javascript (TypeScript, React, Angular), HTML, CSS (Tailwind, Sass, Responsive Web Design), Git, Bash, Docker, Continuous Integration, Debuggers (Browser, IDE), and Unit & Functional Testing
+- Proficient in Golang, Javascript (TypeScript, React, Angular), HTML, CSS (Tailwind, Sass, Responsive Web Design), Git, Bash, Docker, Kubernetes, Continuous Integration, Debuggers (Browser, IDE), and E2E / Unit / Functional Testing
 - Competent in PHP, Python, MySQL, Postgres, DynamoDB, Redis, SQS, Kafka and MongoDB
 - Other skills & traits include Remote Work (8+ years), Project Management, Self-Initiative, Team Collaboration, Team Management, Project Planning, Forward Thinking, Knowledge Transfer, Documenting, Technical Scoping, and Research & Development
 
